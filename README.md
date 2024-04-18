@@ -8,8 +8,8 @@ With a background in civil engineering, I bring a unique perspective to the worl
 
 ## Current Projects
 
-- [Project Name](Link to Project): Brief description of the project.
-- [Project Name](Link to Project): Brief description of the project.
+- [EDA-AirBnb-Bookings](https://github.com/Alikhan6642/EDA-AirBnb-Bookings): The Airbnb Data Analysis Project aims to extract insights from Airbnb's vast dataset to enhance trust, drive growth, and improve the user experience. By analyzing 49,000 observations, we seek to optimize pricing, foster community engagement, and tailor marketing strategies, ultimately redefining travel one experience at a time.
+- [Introduction to Computer Programming Project](https://github.com/Alikhan6642/Introduction-to-Computer-Programming): practical application of fundamental programming concepts using Python. From data types to object-oriented programming, this assessment covers a wide range of topics to test skills.
 - [Project Name](Link to Project): Brief description of the project.
 
 ## Technologies I Work With
