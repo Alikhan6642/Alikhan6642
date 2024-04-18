@@ -14,8 +14,8 @@ With a background in civil engineering, I bring a unique perspective to the worl
 
 ## Technologies I Work With
 
-- Programming Languages: Python
-- Databases: SQL, PostgreSQL
+- Programming Languages: Python, SQL
+- Databases: MySQL, PostgreSQL
 - Libraries & Tools:
   - Data Manipulation & Analysis: Pandas, NumPy
   - Data Visualization: Seaborn, Matplotlib, Tableau, Power BI
