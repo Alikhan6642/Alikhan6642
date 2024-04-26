@@ -8,38 +8,9 @@ With a background in civil engineering, I bring a unique perspective to the worl
 
 ## Current Projects
 
-### [Project-EDA-AirBnb-Bookings](https://github.com/Alikhan6642/EDA-AirBnb-Bookings)
-
-#### Business Problem Overview
-Airbnb, a pioneering force in travel experiences, faces the challenge of deriving actionable insights from a comprehensive dataset of 49,000 observations and 16 columns. The primary goals include enhancing security measures, informing strategic decisions, understanding user behavior, and refining marketing strategies to drive growth and elevate customer experiences.
-
-#### Business Objectives
-- **Strengthen security protocols** for guests and hosts on the Airbnb platform.
-- Utilize data-driven insights to guide **strategic decision-making** processes.
-- Gain deep insights into **customer and host behaviors** and performance metrics.
-- Refine **marketing strategies** to attract, engage, and retain users effectively.
-
-#### Solution Recommendations
-To achieve these objectives, strategic solutions have been proposed:
-
-- **Dynamic Pricing Strategy:** Implementing adaptive pricing based on neighborhood demand, seasonal trends, and market fluctuations to optimize revenue and competitiveness.
-- **Customer Feedback Loop:** Establishing proactive communication channels with guests and hosts to collect feedback promptly and enhance overall satisfaction.
-- **Host Performance Optimization:** Providing hosts with personalized recommendations and performance metrics to enhance listing competitiveness and overall performance.
-- **Neighborhood-Specific Marketing:** Tailoring marketing efforts to focus on high-demand neighborhoods identified through data analysis to drive bookings.
-- **Innovative Additional Services:** Introducing new services based on data-driven insights into customer preferences to enrich the Airbnb experience.
-- **Security and Trust Measures:** Strengthening security protocols and fostering trust within the community to enhance safety and user satisfaction.
-- **Continuous Performance Monitoring:** Implementing a robust monitoring system for key performance indicators to enable agile strategy adjustments.
-- **Data-Driven Decision-Making Culture:** Promoting a culture of data-driven decision-making through comprehensive training and resource allocation.
-- **Optimized Customer Retention Offers:** Designing targeted retention offers based on data-driven churn analysis to enhance user loyalty.
-- **Enhanced Customer Support:** Prioritizing customer support initiatives based on data insights to ensure seamless user experiences and satisfaction.
-
-### [Introduction to Computer Programming Project](https://github.com/Alikhan6642/Introduction-to-Computer-Programming)
-
-A practical application of fundamental programming concepts using Python. From data types to object-oriented programming, this assessment covers a wide range of topics to test skills.
-
-### [Project Name](Link to Project)
-
-Brief description of the project.
+- [EDA-AirBnb-Bookings](https://github.com/Alikhan6642/EDA-AirBnb-Bookings): The Airbnb Data Analysis Project aims to extract insights from Airbnb's vast dataset to enhance trust, drive growth, and improve the user experience. By analyzing 49,000 observations, we seek to optimize pricing, foster community engagement, and tailor marketing strategies, ultimately redefining travel one experience at a time.
+- [Introduction to Computer Programming Project](https://github.com/Alikhan6642/Introduction-to-Computer-Programming): practical application of fundamental programming concepts using Python. From data types to object-oriented programming, this assessment covers a wide range of topics to test skills.
+- [Project Name](Link to Project): Brief description of the project.
 
 ## Technologies I Work With
 
